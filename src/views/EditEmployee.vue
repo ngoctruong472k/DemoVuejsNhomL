@@ -45,9 +45,7 @@
     </div>
   </div>
 </template>
-<style lang="scss">
 
-</style>
 <script>
 import "../scss/style.scss";
 export default {
